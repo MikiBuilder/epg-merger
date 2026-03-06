@@ -1,4 +1,4 @@
-Total canales: 3455 canales
+Total canales: 3454 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -3305,7 +3305,6 @@ PTV Córdoba  [PTV Córdoba]
 PTV Granada  [PTV Granada]
 PTV Linares  [PTV Linares]
 PTV Málaga  [PTV Málaga]
-PTV Sevilla  [PTV Sevilla]
 Pelis Top (Rakuten TV)  [Pelis Top (Rakuten TV)]
 Películas Románticas (Rakuten TV)  [Películas Románticas (Rakuten TV)]
 Penedès TV  [Penedès TV]
