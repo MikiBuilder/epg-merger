@@ -1,4 +1,4 @@
-Total canales: 3455 canales
+Total canales: 3454 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -3235,7 +3235,7 @@ M+ Liga de Campeones 8  [M+ Liga de Campeones 8]
 M+ Liga de Campeones 9  [M+ Liga de Campeones 9]
 M+ Liga de Campeones  [M+ Liga de Campeones HD]
 M+ Liga de Campeones HDR  [M+ Liga de Campeones HDR]
-M+ Los Goya  [M+ Los Goya]
+M+ Los 2000  [M+ Los 2000]
 M+ Originales  [M+ Originales HD]
 M+ Oscars  [M+ Oscars]
 M+ PopUp  [M+ PopUp]
@@ -3304,7 +3304,6 @@ PT | Sporting TV  [PT | Sporting TV HD]
 PT | TRACE Urban  [PT | TRACE Urban HD]
 PTV Granada  [PTV Granada]
 PTV Linares  [PTV Linares]
-PTV Málaga  [PTV Málaga]
 PTV Sevilla  [PTV Sevilla]
 Pelis Top (Rakuten TV)  [Pelis Top (Rakuten TV)]
 Películas Románticas (Rakuten TV)  [Películas Románticas (Rakuten TV)]
