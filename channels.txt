@@ -1,4 +1,4 @@
-Total canales: 3469 canales
+Total canales: 3470 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -2649,6 +2649,8 @@ Dr. G  [697c9bc2a7ce9d5a3d83504a]
 Property Brothers  [698384cb7230043f21f4a3f4]
 Pluto TV Amor y Mentiras  [698a45156dc3c71eb1ba6599]
 Ridiculousness  [6996296087742204bff43147]
+Retake E-sport Live  [69a162eb762ae48b4302fb7c]
+Retake E-sport Live  [69a164f76c0414a7ec68de54]
 7teleValencia  [7teleValencia]
 8madrid TV  [8madrid TV]
 AMC Anime  [AMC Anime]
@@ -3327,7 +3329,6 @@ Pro TV  [Pro TV]
 Punt 3  [Punt 3]
 Qello concerts  [Qello concerts]
 Qwest TV  [Qwest TV]
-REKTV  [REKTV]
 RTP Internacional  [RTP Internacional]
 Real Madrid TV  [Real Madrid TV]
 Record  [Record]
