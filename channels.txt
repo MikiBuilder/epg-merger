@@ -1,4 +1,4 @@
-Total canales: 3470 canales
+Total canales: 3474 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -1450,6 +1450,9 @@ MOVIESPHERE  [643054b1fc3be59477853717-695d5d279caacd2e64b7a00c]
 Bowling TV  [643054b1fc3be59477853717-6970fdabbde579fb71262401]
 All My Children  [643054b1fc3be59477853717-697144cdbde579fb71262405]
 Powernation  [643054b1fc3be59477853717-69814bbff871095eafc65925]
+Crímenes Reales  [643054b1fc3be59477853717-69a1fe1b0f8d297b3f6ac0f0]
+Bondi Rescue  [643054b1fc3be59477853717-69ae4f38e657bab5f7a9b7ec]
+CNN Headlines International  [643054b1fc3be59477853717-69b164bc87340e48b7b72247]
 Transformers TV  [643683519b32b400094e0a40]
 Skönhetsfällan Danmark  [643808dce0789d00084797f6]
 Skjønnhetsfellen Danmark  [643810f2e8a4aa0008ccf575]
@@ -2631,6 +2634,7 @@ Qello Concerts  [696998915a0ae9e1b563f0c6]
 ZenLIFE by Stingray  [696998dfa2b623e8b20125a3]
 GrowthDay Network  [69699ae5d301d54fb3dc1499]
 World of Love Island  [69699b6d23ea437206f4a036]
+Rally TV  [696e02423b9ce349c90edef9]
 Rally TV  [696e024a7e92438c27a425a8]
 Rally TV  [696e0fe49ba4ac18057433ac]
 Puto TV Classic TV Crime Drama  [696e61287d2afdec4ff2cb75]
