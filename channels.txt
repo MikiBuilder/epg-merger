@@ -1,4 +1,4 @@
-Total canales: 3475 canales
+Total canales: 3477 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -2470,6 +2470,7 @@ Pluto TV Snooker 900  [68ac55bb3efb41cd979a65ec]
 Pluto TV Snooker 900  [68ac55fe3efb41cd979a6877]
 Pluto TV Snooker 900  [68ac56363efb41cd979a8005]
 Love Island: All Stars  [68ad8bececd330dcb0f050b5]
+The Outer Limits  [68ad90673efb41cd97c95825]
 Pluto TV Historische Serien  [68ada3395190a45dc9c445cf]
 Pluto TV Popkultur  [68ada399247c66a111528aaa]
 Pluto TV Reportagen  [68ada3edf84960586ad31c7d]
@@ -3427,6 +3428,7 @@ UK | Premier Sports 1  [UK | Premier Sports 1]
 UK | Premier Sports 1 ROI  [UK | Premier Sports 1 ROI]
 UK | Premier Sports 2  [UK | Premier Sports 2]
 UK | Sky Sports +  [UK | Sky Sports +]
+UK | Sky Sports Action  [UK | Sky Sports Action]
 UK | Sky Sports Box Office  [UK | Sky Sports Box Office]
 UK | Sky Sports Cricket  [UK | Sky Sports Cricket]
 UK | Sky Sports F1  [UK | Sky Sports F1]
