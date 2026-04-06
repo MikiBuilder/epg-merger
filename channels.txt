@@ -1,4 +1,4 @@
-Total canales: 3472 canales
+Total canales: 3473 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -2536,6 +2536,7 @@ Mi Bella Genio  [68ffc086a530e036bc8f0305]
 Ironside  [6900997e043e3df1897d017f]
 NCIS: Det bedste med Gibbs  [6901d952ec12c3c759fdc7cd]
 Murdertown  [69038c2ee0e0c5f8208c033a]
+FanDuel Sports Network NOW  [6903f5e3b573e6b45cbf5508]
 Wipeout  [6909e5c3a3a4b49706b8373b]
 Hardcore Pawn  [6909fc4b74601d957a380613]
 Mayday: Disastro Aereo  [690cb9140d121b44ad925ac9]
