@@ -1,4 +1,4 @@
-Total canales: 3474 canales
+Total canales: 3475 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -2861,6 +2861,7 @@ DSPORTS 2  [DSPORTS 2]
 DSPORTS Fight  [DSPORTS Fight]
 DSPORTS+  [DSPORTS+]
 Dark Rojo  [Dark Rojo]
+DePelícula  [DePelícula]
 DejateTV  [DejateTV]
 Deutsche W  [Deutsche W]
 Dhípica  [Dhípica]
