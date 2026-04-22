@@ -1,4 +1,4 @@
-Total canales: 3470 canales
+Total canales: 3471 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -2875,7 +2875,7 @@ DW  [ES1300001QC]
 Beyblade  [ES1400001T8]
 CURIOSITY Now  [ES1400002CJ]
 La Fiebre del Jade  [ES1600002QL]
-Naturaleza  [ES1600003FF]
+Planeta Salvaje  [ES1600003FF]
 Todo Crimen  [ES1600004JV]
 Coreano by CJ ENM  [ES1700003C6]
 NEW K-MOVIES  [ES170000433]
@@ -2964,6 +2964,7 @@ Rally.TV FAST+  [ES51000017V]
 Runtime Familia  [ES700004C8]
 Yu-Gi-Oh!  [ES7000056Z]
 Ubeat Lite  [ES70000710]
+Space Live  [ES7000088K]
 Mr Bean Animated  [ES900001SH]
 Todo Pasión  [ES900002ZD]
 Pluto TV Cine Estelar  [ESAJ3800001KT]
