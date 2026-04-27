@@ -1,4 +1,4 @@
-Total canales: 3481 canales
+Total canales: 3480 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -3315,7 +3315,6 @@ PT | Sport TV 6  [PT | Sport TV 6]
 PT | Sport TV 7  [PT | Sport TV 7]
 PT | Sporting TV  [PT | Sporting TV HD]
 PT | TRACE Urban  [PT | TRACE Urban HD]
-PTV Córdoba  [PTV Córdoba]
 PTV Granada  [PTV Granada]
 PTV Linares  [PTV Linares]
 PTV Málaga  [PTV Málaga]
