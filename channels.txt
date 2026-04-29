@@ -1,4 +1,4 @@
-Total canales: 3475 canales
+Total canales: 3478 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -2651,6 +2651,7 @@ Farscape  [699c1c633d27d6da460bbcae]
 Retake E-sport Live  [69a162eb762ae48b4302fb7c]
 Retake E-sport Live  [69a164f76c0414a7ec68de54]
 Pluto TV April, April  [69a553dc3d27d6da464b17fd]
+Pluto TV Laughs in Spanish  [69a554179a3f3bb488c7d2be]
 Space Live  [69a554497ed3b3fff0b9ca80]
 Pluto TV Die Rache der Natur  [69a5578b762ae48b4319f113]
 Pluto TV Retro Action Movies  [69a9ae4d3bd16a4ed04240d7]
@@ -3313,7 +3314,9 @@ PT | Sport TV 7  [PT | Sport TV 7]
 PT | Sporting TV  [PT | Sporting TV HD]
 PT | TRACE Urban  [PT | TRACE Urban HD]
 PTV Granada  [PTV Granada]
+PTV Linares  [PTV Linares]
 PTV Málaga  [PTV Málaga]
+PTV Sevilla  [PTV Sevilla]
 Pelis Top (Rakuten TV)  [Pelis Top (Rakuten TV)]
 Películas Románticas (Rakuten TV)  [Películas Románticas (Rakuten TV)]
 Penedès TV  [Penedès TV]
