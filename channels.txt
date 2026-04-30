@@ -1,4 +1,4 @@
-Total canales: 3478 canales
+Total canales: 3476 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -1887,9 +1887,6 @@ Tosh.0  [65e97856ec9fda0008cb453c]
 Best of Paradise Hotel: Skolveckan  [65e97cd118036500082ed0ce]
 Best of Paradise Hotel: Finalveckan  [65e97d41f7f0af0008da2543]
 Best of Paradise Hotel: Pandoras Ask  [65e97d760d456100082da660]
-Glory Kickboxing  [65e9b6498b24c8000806b982]
-Glory Kickboxing  [65e9b676332fec00085b300e]
-Glory Kickboxing  [65e9b6b58145cb00084d24ee]
 UEFA Champions League  [65ea8b928145cb0008509426]
 Pluto TV Séries Drama  [65f060d84e01740008d7421f]
 Duri a Morire  [65f865a62873090008d06382]
@@ -2618,6 +2615,7 @@ Star Trek: The Next Generation  [69776ce979545c21a1220bff]
 Call My Agent!  [69776f2b2c00406316a01945]
 Will&Grace  [697a0577f9c3aa5a215a4ef8]
 Super Mario Bros.  [697a2f8b3991484f03064614]
+Si près de chez vous  [697a34496f47f39d31ff8bde]
 Everybody Hates Chris  [697b5a6c9567bf7b5f71a350]
 Everybody Hates Chris  [697b5be36dc3c71eb14d728a]
 Dr. G  [697c9bc2a7ce9d5a3d83504a]
