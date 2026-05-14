@@ -1,4 +1,4 @@
-Total canales: 3489 canales
+Total canales: 3491 canales
 ========================================
 1+1 International  [1+1 International]
 100% Navidad (Rakuten TV)  [100% Navidad (Rakuten TV)]
@@ -2533,6 +2533,7 @@ Anthony Bourdain: Parts Unknown  [69173ce8abd4703b27f71d44]
 Hardcore Pawn  [691b012d1148fa1cd8a75d5c]
 The X-Files  [691b023a7613e09a8b209539]
 Dating hinter Gittern  [691b2b690d121b44ad4a53ef]
+Pluto TV ANIME GO!  [691b3669c48674840c3b832a]
 Meet, Marry, Murder  [691b453846ca5e6d1665f03b]
 Nina  [691c5b2e74baa89ef7230baf]
 Inter 24/7  [691c5bef3a369d8f40192e71]
@@ -3324,6 +3325,7 @@ PT | Sport TV 6  [PT | Sport TV 6]
 PT | Sport TV 7  [PT | Sport TV 7]
 PT | Sporting TV  [PT | Sporting TV HD]
 PT | TRACE Urban  [PT | TRACE Urban HD]
+PTV Córdoba  [PTV Córdoba]
 PTV Granada  [PTV Granada]
 PTV Linares  [PTV Linares]
 PTV Málaga  [PTV Málaga]
