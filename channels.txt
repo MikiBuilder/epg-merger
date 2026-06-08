@@ -1,4 +1,4 @@
-Total canales: 3491 canales
+Total canales: 3490 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -3327,7 +3327,6 @@ PT | Sport TV 7  [PT | Sport TV 7]
 PT | Sporting TV  [PT | Sporting TV HD]
 PT | TRACE Urban  [PT | TRACE Urban HD]
 PTV Linares  [PTV Linares]
-PTV Málaga  [PTV Málaga]
 Pelis Top (Rakuten TV)  [Pelis Top (Rakuten TV)]
 Películas Románticas (Rakuten TV)  [Películas Románticas (Rakuten TV)]
 Penedès TV  [Penedès TV]
