@@ -1,4 +1,4 @@
-Total canales: 3498 canales
+Total canales: 3499 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2975,6 +2975,7 @@ El Mueble  [ES4300006I4]
 Las 3 Mellizas  [ES4400001N3]
 Mi Casa  [ES4400002LI]
 Todo Drama  [ES440000327]
+Metal.Rocks  [ES4400004OX]
 Cry Babies  [ES4400005EJ]
 Alerta Cobra  [ES45000012U]
 2M  [ES4700001VS]
@@ -3283,7 +3284,7 @@ Mezzo  [Mezzo]
 Mezzo Live  [Mezzo Live HD]
 Moto ADV  [Moto ADV]
 Motorvision  [Motorvision]
-Movistar Plus+  [Movistar Plus+ HD]
+Movistar Plus  [Movistar Plus HD]
 Mr Bean Animated  [Mr Bean Animated]
 Multicine atresplayer  [Multicine atresplayer]
 Mundial (DAZN)  [Mundial (DAZN)]
