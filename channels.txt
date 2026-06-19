@@ -1,4 +1,4 @@
-Total canales: 3509 canales
+Total canales: 3508 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -1237,7 +1237,6 @@ Euronews Français  [643054b1fc3be59477853717-6245f06793b402a3d1097787]
 Euronews Italiano  [643054b1fc3be59477853717-6245f13093b402a3d1097789]
 COPS  [643054b1fc3be59477853717-626c1753ffda6789d20a452e]
 Ninja Kidz TV  [643054b1fc3be59477853717-627ec46a92d8e6a705784bd1]
-TED  [643054b1fc3be59477853717-62ab5aabbb869dd0df6a3487]
 Sonic TV  [643054b1fc3be59477853717-62ba4aaff663580a7238f327]
 Shemaroo Bollywood  [643054b1fc3be59477853717-62d1a58e520656fda09e609d]
 Qello Concerts  [643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7c]
@@ -2590,7 +2589,7 @@ Fristet  [6969fc6c3b9ce349c9e41670]
 Rally TV  [696e02423b9ce349c90edef9]
 Rally TV  [696e024a7e92438c27a425a8]
 Rally TV  [696e0fe49ba4ac18057433ac]
-Puto TV Classic TV Crime Drama  [696e61287d2afdec4ff2cb75]
+Pluto TV Classic TV Crime Drama  [696e61287d2afdec4ff2cb75]
 Bonanza  [696e647b07ea70192d49f6a5]
 Gambero Rosso  [6971fc07c945e6e4e5bc46bf]
 Automoto  [6971fc6dca441014e4600f2c]
