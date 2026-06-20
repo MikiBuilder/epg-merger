@@ -1,4 +1,4 @@
-Total canales: 3508 canales
+Total canales: 3507 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2453,7 +2453,6 @@ Paramount Network de Pluto TV  [68d566603d3a9580eb461251]
 SUMO Paris 2026  [68d669f9508ba507f075b5fe]
 SUMO Paris 2026  [68d66a37508ba507f075bd8c]
 SUMO Paris 2026  [68d66a69508ba507f075c185]
-SUMO Paris 2026  [68d66a89064e0a4756f0b3fe]
 SUMO Paris 2026  [68d66a98508ba507f075c8da]
 SUMO Paris 2026  [68d67005bdb33359705bbed3]
 Comedia a lo bestia de Pluto TV  [68de3db35fc0afe85de0b843]
