@@ -1,4 +1,4 @@
-Total canales: 3509 canales
+Total canales: 3507 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2448,9 +2448,6 @@ Los Pitufos  [68d27949793c71d988ca624c]
 Flynn Carson et The Outpost  [68d292d554c61bfff220a635]
 Paramount Network de Pluto TV  [68d566603d3a9580eb461251]
 SUMO Paris 2026  [68d669f9508ba507f075b5fe]
-SUMO Paris 2026  [68d66a37508ba507f075bd8c]
-SUMO Paris 2026  [68d66a69508ba507f075c185]
-SUMO Paris 2026  [68d66a98508ba507f075c8da]
 SUMO Paris 2026  [68d67005bdb33359705bbed3]
 Comedia a lo bestia de Pluto TV  [68de3db35fc0afe85de0b843]
 Ridiculousness - Nye afsnit  [68dfa160cc3c6cd90404d798]
@@ -2611,6 +2608,7 @@ Flipper: The New Adventures  [698ddd6ec144dcc29b866133]
 Flipper: The New Adventures  [698dde17c7f3f49e64e3414a]
 Flipper: The New Adventures  [698dde7c8b5c1e0795b85739]
 r8Dio TV  [698ddf5a8c21a5f2d64c14a8]
+Asfalten kalder  [698ddf8fe93b210d1aaaa2fc]
 Pluto TV Azione Cult  [6994800c470389f33df8e090]
 Ridiculousness  [6996296087742204bff43147]
 The Nanny & Mr Sheffield - A Fine Romance  [6996f0335452cb4f0a2c4153]
