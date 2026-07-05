@@ -1,4 +1,4 @@
-Total canales: 3515 canales
+Total canales: 3516 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -3136,6 +3136,7 @@ FR · beIN SPORTS MAX 7  [FR · beIN SPORTS MAX 7]
 FR · beIN SPORTS MAX 8  [FR · beIN SPORTS MAX 8]
 FR · beIN SPORTS MAX 9  [FR · beIN SPORTS MAX 9]
 Factoría de Ficción  [Factoría de Ficción]
+FashionTV  [FashionTV]
 Fast&FunBox  [Fast&FunBox]
 Fight Box  [Fight Box HD]
 Fight Time  [Fight Time]
