@@ -1,4 +1,4 @@
-Total canales: 3525 canales
+Total canales: 3524 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -1460,7 +1460,6 @@ Archivos Extraterrestres  [645d1abbe1979c0008779d5a]
 More TV Sci-fi  [645e00d5d3fdde000829463a]
 MovieSphere by Lionsgate  [645e7828e1979c00087b75b4]
 Pluto TV Alien Invasion  [6462190b7cb4b1000862dd60]
-How To Use Pluto TV  [64634eb42858cb0008fd92d6]
 America's Next Top Model  [6464cc595a0cd500088c7749]
 America's Next Top Model  [6464cd7c7cb4b100086c71c9]
 America's Next Top Model  [6464cdcaee6a2f000822a7a8]
