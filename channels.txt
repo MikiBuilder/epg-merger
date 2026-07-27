@@ -1,4 +1,4 @@
-Total canales: 3535 canales
+Total canales: 3536 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -3419,6 +3419,7 @@ Somos Cine  [Somos Cine]
 Sony One Hits Acción  [Sony One Hits Acción]
 Sony One Hits Comedia  [Sony One Hits Comedia]
 Sony One Series Comedia  [Sony One Series Comedia]
+Sony One Series Thriller  [Sony One Series Thriller]
 Sony One Shark Tank  [Sony One Shark Tank]
 Sony One The Blacklist  [Sony One The Blacklist]
 Sony One Éxitos  [Sony One Éxitos]
