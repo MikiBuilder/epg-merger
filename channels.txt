@@ -1,4 +1,4 @@
-Total canales: 3539 canales
+Total canales: 3536 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2659,9 +2659,6 @@ Schnell ermittelt  [69b968a58323ef2714d1aa36]
 Pluto TV Comedy Therapie  [69b968ba255fecb01f602257]
 Pluto TV Worst of Bundy  [69b968ca1c36025fd0a3d92d]
 Pluto TV Fran: Beste Mama-Momente  [69b968e011fc7b9e27c0d958]
-Sky News  [69bd17e1ed1b1f1acb210639]
-Sky News  [69bd189dfcb9bf5e30bb7d7e]
-Sky News  [69bd18d9f5e47201f50692e6]
 Gustav & Linse på udebane  [69c290eeed1b1f1acb446dd8]
 CNN Headlines International  [69c2940612e978ee4920d9b0]
 CNN Headlines International  [69c2946724a6d521f82a8595]
