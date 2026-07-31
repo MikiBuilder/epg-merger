@@ -1,4 +1,4 @@
-Total canales: 3535 canales
+Total canales: 3536 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -3382,6 +3382,7 @@ Pocoyó  [Pocoyó]
 Popular TV Cantabria  [Popular TV Cantabria]
 Popular TV Región de Murcia  [Popular TV Región de Murcia]
 Primera Federación  [Primera Federación]
+Primera Federación (DAZN)  [Primera Federación (DAZN)]
 Pro TV  [Pro TV]
 Punt 3  [Punt 3]
 Qello concerts  [Qello concerts]
