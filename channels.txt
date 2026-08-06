@@ -1,4 +1,4 @@
-Total canales: 3531 canales
+Total canales: 3530 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2902,7 +2902,6 @@ DSPORTS Fight  [DSPORTS Fight]
 DSPORTS Motor  [DSPORTS Motor]
 DSPORTS+  [DSPORTS+]
 Dark Rojo  [Dark Rojo]
-DePelícula  [DePelícula]
 Deutsche W  [Deutsche W]
 Dhípica  [Dhípica]
 Discovery  [Discovery]
