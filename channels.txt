@@ -1,4 +1,4 @@
-Total canales: 3544 canales
+Total canales: 3542 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2688,7 +2688,6 @@ MasterChef Argentina  [69fcaa88e022927e1c94c533]
 I Shouldn't Be Alive  [69fcaaa1853a01a827bcd056]
 Blue Bloods  [69fcc8cfb83300b380051794]
 Hermanos a la Obra  [69fcdc73488e575cff213adc]
-Zuffa Boxing Prelims  [6a03782f2c1c785c1161756c]
 Pluto TV Action Drama  [6a065830853a01a827f6dd65]
 Terapia con Charlie  [6a0c25d1c3b9403659196293]
 Pippi Calzaslargas  [6a0c25fe09705ebdf7e4599a]
@@ -2712,7 +2711,6 @@ Danske Hollywoodfruer  [6a329ace8b8fb5b94c6910eb]
 Sam and Colby  [6a3a463fd7a42182ccd2d0b1]
 Pluto TV Arte  [6a439aae539f6cfa9cd04d27]
 Jane the Virgin  [6a4bf0a89ad0c6d75edc026b]
-Zuffa Boxing Prelims  [6a4eb535269be3853419f4c7]
 Pluto TV Royal Drama  [6a4fd96d7652851fb490204f]
 Quirky AF  [6a4fd9f5445cbf6c14ae3ea2]
 Hogan's Heroes  [6a56adb02f9e0117d78f5b44]
