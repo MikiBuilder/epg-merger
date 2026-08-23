@@ -1,4 +1,4 @@
-Total canales: 3541 canales
+Total canales: 3543 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2870,6 +2870,8 @@ DAZN National League 9  [DAZN National League 9]
 DAZN Premier League  [DAZN Premier League]
 DAZN Premier League 2  [DAZN Premier League 2]
 DAZN Premier League 3  [DAZN Premier League 3]
+DAZN Premier League 4  [DAZN Premier League 4]
+DAZN Premier League 5  [DAZN Premier League 5]
 DAZN Serie A  [DAZN Serie A]
 DAZN Serie A 2  [DAZN Serie A 2]
 DAZN Serie A 3  [DAZN Serie A 3]
