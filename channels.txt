@@ -1,4 +1,4 @@
-Total canales: 3583 canales
+Total canales: 3586 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2895,6 +2895,9 @@ DAZN Liga F  [DAZN Liga F]
 DAZN Liga F 2  [DAZN Liga F 2]
 DAZN MotoGP  [DAZN MotoGP]
 DAZN National League  [DAZN National League]
+DAZN National League 10  [DAZN National League 10]
+DAZN National League 11  [DAZN National League 11]
+DAZN National League 12  [DAZN National League 12]
 DAZN National League 2  [DAZN National League 2]
 DAZN National League 3  [DAZN National League 3]
 DAZN National League 4  [DAZN National League 4]
