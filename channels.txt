@@ -1,4 +1,4 @@
-Total canales: 3598 canales
+Total canales: 3600 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2698,6 +2698,7 @@ The Bob Ross Channel  [6a329b4aff3691f8e69cc74f]
 The Bob Ross Channel  [6a329b878aa69b1cc8c5d1b6]
 The Bob Ross Channel  [6a329bb68036fe474a3f3e13]
 Sam and Colby  [6a3a463fd7a42182ccd2d0b1]
+Big A Anime  [6a3c5fa46276c42ac6726b27]
 Et Ton Cash  [6a3e3b2aee8afbaedeebdd84]
 Star Trek: Deep Space Nine  [6a426e053a96e5056db52261]
 Star Trek: Deep Space Nine  [6a426ea9a1c1cd6c590e17e4]
@@ -2721,6 +2722,7 @@ Star Trek: Fanfavoritter  [6a427cd153ad8a71107749cc]
 Pluto TV Arte  [6a439aae539f6cfa9cd04d27]
 Acapulco Shore  [6a43d26599d7b121476c351c]
 Noche y día  [6a43d3bae0c1a33841302952]
+Los Misteriosos asesinatos de Miss Fisher  [6a43d63071cbfff7dca61d23]
 Star Trek: Discovery  [6a43d781500fdfdb6975e97c]
 MovieSphere by Lionsgate  [6a4436f8e7884b99f287c7b9]
 Kebab Date  [6a4b5f7c4ac01af3ed4e6fa1]
