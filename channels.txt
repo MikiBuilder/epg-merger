@@ -1,4 +1,4 @@
-Total canales: 3600 canales
+Total canales: 3599 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -3382,7 +3382,6 @@ Motorvision  [Motorvision]
 Movistar Plus  [Movistar Plus HD]
 Mr Bean Animated  [Mr Bean Animated]
 Multicine atresplayer  [Multicine atresplayer]
-Mundial (DAZN)  [Mundial (DAZN)]
 MyPadel TV  [MyPadel TV]
 MyTime Movie Network (Rakuten TV)  [MyTime Movie Network (Rakuten TV)]
 Mírame TV  [Mírame TV]
