@@ -1,4 +1,4 @@
-Total canales: 3641 canales
+Total canales: 3642 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -3024,10 +3024,11 @@ NEW K-MOVIES  [ES170000433]
 NEW KPOP  [ES1700005ME]
 BABY SHARK TV  [ES17000065P]
 BBC Lifestyle  [ES18000040D]
+BBC Historia  [ES1800005H2]
 Rainy Day Vibes  [ES1800006ZS]
 Island Vibes  [ES1800007GH]
 Ocean Vibes  [ES1800008X7]
-Spring Vibes  [ES1800009VX]
+Fall Vibes  [ES1800009VX]
 Cozy Vibes  [ES190000224]
 Storm Vibes  [ES1900003JT]
 Tennis+  [ES20000065W]
