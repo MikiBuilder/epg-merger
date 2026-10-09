@@ -1,4 +1,4 @@
-Total canales: 3645 canales
+Total canales: 3647 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2815,6 +2815,7 @@ The Addams Family  [6a902fdde36a89b91e0801de]
 Pluto TV Series de Terror y Suspenso  [6a904349f9b764ea89e9a92a]
 Sexta-Feira 13  [6a91ac590c9f5239c28ef0b3]
 Generation Iron  [6a9974a42714ce519204811a]
+Cenando con Pablo  [6a9fc2af17c0d8c7a37697d0]
 Pluto TV Recent Releases  [6aa043fe0c9f5239c2c508c2]
 Private Eyes  [6aa1c48cf5f14c2045c43776]
 Paranormal Chronicles  [6aa2c09cf5f14c2045c7c87a]
@@ -3578,6 +3579,7 @@ Televisió de Badalona  [Televisió de Badalona]
 Televisió de l'Hospitalet  [Televisió de l'Hospitalet]
 Ten  [Ten]
 Tennis Channel  [Tennis Channel]
+Tennis+  [Tennis+]
 Thrillers (Rakuten TV)  [Thrillers (Rakuten TV)]
 Todo Crimen (Rakuten TV)  [Todo Crimen (Rakuten TV)]
 Todo Drama (Rakuten TV)  [Todo Drama (Rakuten TV)]
