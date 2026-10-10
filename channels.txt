@@ -1,4 +1,4 @@
-Total canales: 3647 canales
+Total canales: 3649 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -1390,6 +1390,7 @@ GrowthDay Network  [643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c]
 Tennis TV  [643054b1fc3be59477853717-6a90b2b5c0870218305e909b]
 SWAC TV  [643054b1fc3be59477853717-6a9512a7f534d4312a699c22]
 Real Emergency  [643054b1fc3be59477853717-6aa9bc040832270987394353]
+Man City 24/7  [643054b1fc3be59477853717-6aa9c4a3083227098739435b]
 Nomad Travel  [643054b1fc3be59477853717-6aaa2279083227098739435f]
 COPS  [643054b1fc3be59477853717-6ab2a5c24d0a0fea95319571]
 COPS en Español  [643054b1fc3be59477853717-6ab3fb945364aa2377195427]
@@ -2828,6 +2829,7 @@ CBC News Edmonton  [6aaaec5abd51830177e9a185]
 Pluto TV Halloween  [6ab165fdeae99d62d7e541ff]
 Pluto TV Fantastic  [6abab1c8d33c7e25d227502e]
 TV Land Sitcoms  [6abab32a198ce62db3f7e54d]
+Narcos  [6abab34190639e3b198384da]
 7teleValencia  [7teleValencia]
 8madrid TV  [8madrid TV]
 AMC Anime  [AMC Anime]
