@@ -1,4 +1,4 @@
-Total canales: 3671 canales
+Total canales: 3673 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2742,6 +2742,7 @@ Mr. Bean  [6a4399d27d65ad4fa68a8806]
 Pluto TV Arte  [6a439aae539f6cfa9cd04d27]
 Tennis Channel  [6a43ab7bfd93e35b5dadb67e]
 Horrorland by Pluto TV  [6a43b329539f6cfa9cd0c807]
+Mr. Bean  [6a43b36c71cbfff7dca50cf3]
 Tennis Channel  [6a43c8e19d516ba88f728627]
 Noche y día  [6a43d3bae0c1a33841302952]
 Los Misteriosos asesinatos de Miss Fisher  [6a43d63071cbfff7dca61d23]
@@ -2823,6 +2824,7 @@ The Addams Family  [6a902f6374f26b7e6d880253]
 The Addams Family  [6a902fdde36a89b91e0801de]
 Pluto TV Series de Terror y Suspenso  [6a904349f9b764ea89e9a92a]
 Sexta-Feira 13  [6a91ac590c9f5239c28ef0b3]
+Rebelde  [6a9a8fbd8cc64f2b2b40c83c]
 Cenando con Pablo  [6a9fc2af17c0d8c7a37697d0]
 Pluto TV Recent Releases  [6aa043fe0c9f5239c2c508c2]
 Private Eyes  [6aa1c48cf5f14c2045c43776]
