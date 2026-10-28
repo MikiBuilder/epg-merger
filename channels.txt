@@ -1,4 +1,4 @@
-Total canales: 3679 canales
+Total canales: 3681 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2711,6 +2711,8 @@ Diagnosis Murder  [6a2b0eab9465b98649cd0d2f]
 Touched By An Angel  [6a2b0edf201df02a8bfea30a]
 Dr. Quinn, Medicine Woman  [6a2b0f2509705ebdf781231d]
 Pluto TV Crime Thrillers  [6a300571cdfd39da91df9159]
+Penn & Teller: Fool Us (CW)  [6a304723ff3691f8e68a2e74]
+CW Presents WWE NXT  [6a30478d0be0264f4a4e227c]
 Mr. Bean  [6a31544f2c1c785c1138dbb1]
 Pluto TV 90s Hit Comedy  [6a315581df0b6d462c18397e]
 Danske Hollywoodfruer  [6a329ace8b8fb5b94c6910eb]
