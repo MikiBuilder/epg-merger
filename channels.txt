@@ -1,4 +1,4 @@
-Total canales: 3689 canales
+Total canales: 3688 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -1195,7 +1195,6 @@ Watch it SCREAM  [643054b1fc3be59477853717-621671d05abdd3d5556a1baf]
 Watch it Kid  [643054b1fc3be59477853717-621672612c2627c068e73ad6]
 Galxy TV  [643054b1fc3be59477853717-621672e42c2627c068e73ad8]
 FrightFlix  [643054b1fc3be59477853717-621674502c2627c068e73ada]
-El Conflicto TV  [643054b1fc3be59477853717-621674f168c966be92737ce6]
 Surfer TV  [643054b1fc3be59477853717-6227c215c9f485cc7afe8c41]
 Powder TV  [643054b1fc3be59477853717-62280162c9f485cc7afe8c46]
 Euronews Portuguese  [643054b1fc3be59477853717-6245cd154f27f4e9c76d67e9]
