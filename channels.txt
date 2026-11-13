@@ -1,4 +1,4 @@
-Total canales: 3709 canales
+Total canales: 3714 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2896,10 +2896,15 @@ Third Watch  [6ad7a8411beb399aadd298d3]
 Strangely Addicting  [6ad7a903a4021a92c795cced]
 Whose Line Is It Anyway  [6ad7a97aa9b3de1ec8f609ad]
 Sabrina the Teenage Witch  [6ad7c302365deb3f0242d25b]
+The First 48  [6ad9003ec7dcaeb9825ded70]
+Crime 360  [6ad9015156079f3c4aa1df01]
+UnXplained Zone  [6ad902aca56abdc1eb746638]
+Deal Zone  [6ad9030e9cc13e30e3011217]
 Most Haunted  [6ae1d95ca9b3de1ec838a3e2]
 Most Haunted  [6ae1da00b79b589b96bec887]
 Most Haunted  [6ae1da895db95e3dac657728]
 Charmed  [6ae4aac4365deb3f02984c82]
+Paola Minerva  [6af41da8bef31762f36993bf]
 7teleValencia  [7teleValencia]
 8madrid TV  [8madrid TV]
 AMC Anime  [AMC Anime]
