@@ -1,4 +1,4 @@
-Total canales: 3746 canales
+Total canales: 3748 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -2937,6 +2937,7 @@ Third Watch  [6ae9d288aae217e85689f5e1]
 Married to Medicine  [6ae9f94f25b01a1ba4939e78]
 Paola Minerva  [6af41da8bef31762f36993bf]
 Paw Patrol Holiday Fireplace  [6afb376f5db95e3dacdebad9]
+CouchZone – The Pluto TV Darts Watch Party  [6afd821de1f59edd2f889276]
 70 años  [70 años]
 7teleValencia  [7teleValencia]
 8madrid TV  [8madrid TV]
@@ -3378,6 +3379,7 @@ FR · beIN SPORTS MAX 8  [FR · beIN SPORTS MAX 8]
 FR · beIN SPORTS MAX 9  [FR · beIN SPORTS MAX 9]
 Factoría de Ficción  [Factoría de Ficción]
 Fashion TV (Rakuten TV)  [Fashion TV (Rakuten TV)]
+FashionTV  [FashionTV]
 Fast&FunBox  [Fast&FunBox]
 Fight Box  [Fight Box HD]
 Fight Time  [Fight Time]
