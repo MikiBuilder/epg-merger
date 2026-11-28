@@ -1,4 +1,4 @@
-Total canales: 3748 canales
+Total canales: 3746 canales
 ========================================
 1+1 International  [1+1 International]
 24 Horas  [24 Horas]
@@ -1783,7 +1783,6 @@ Love Boat  [65cb76723a116800079e1fc3]
 Dynasty  [65cb76ea11ced70008206b66]
 Mission Impossible  [65cb77853ba51e00084cba02]
 Cin Cin  [65cb78b83a116800079e2e35]
-Fangene på Fortet  [65cb8bd911ced7000820bff2]
 Key & Peele  [65cba715dc10a40008034917]
 Broad City  [65cba73611ced700082123bc]
 Key & Peele  [65cba7573ba51e00084d76e1]
@@ -3379,7 +3378,6 @@ FR · beIN SPORTS MAX 8  [FR · beIN SPORTS MAX 8]
 FR · beIN SPORTS MAX 9  [FR · beIN SPORTS MAX 9]
 Factoría de Ficción  [Factoría de Ficción]
 Fashion TV (Rakuten TV)  [Fashion TV (Rakuten TV)]
-FashionTV  [FashionTV]
 Fast&FunBox  [Fast&FunBox]
 Fight Box  [Fight Box HD]
 Fight Time  [Fight Time]
